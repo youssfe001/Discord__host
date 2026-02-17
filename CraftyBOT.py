@@ -10,7 +10,7 @@ from typing import Optional, Tuple, List
 # ==========================================
 # ⚙️ إعدادات المتغيرات (ضع بياناتك هنا)
 # ==========================================
-TOKEN = "MTQ3MjA0NTY0ODAxNzYyNTE1Mg.GEoY_0.4BG0UakOVtd8AxpN-kzONFzQMvWoWMA1DCkjj4"
+TOKEN = "MTQ3MjA0NTY0ODAxNzYyNTE1Mg.GLjtSI.ZY5Hp9KuUi5qZbVC-ZmBCGZNhC7jMaCf5PfpZY"
 PC_CHANNEL_ID = 1472031752213233707          # قناة سكريبتات الكمبيوتر
 MOBILE_CHANNEL_ID = 1472031348926582814     # قناة سكريبتات الموبايل
 ADMIN_LOG_CHANNEL_ID = 1472231359203246284   # قناة مراجعة الإدارة
